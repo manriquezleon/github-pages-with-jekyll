@@ -1,8 +1,6 @@
 ---
 title: "Welcome to my blog"
 date: 2018-11-25
----
-
 author: GitHub User
 email: martin@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -15,3 +13,4 @@ github_username:  my-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
