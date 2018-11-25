@@ -1,16 +1,4 @@
 ---
-title: "Welcome to my blog"
-date: 2018-11-25
-author: @manriquezleon
-email: martin@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  this is my blogg to the github labs
-
-# social links
-twitter_username: my-twitter-handle
-github_username:  my-github-handle
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
+title: "MY-TITLE"
+date: 1996-11-25
 ---
